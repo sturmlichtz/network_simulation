@@ -1,5 +1,5 @@
 #  A Network simulation designed using Cisco Packet Tracer
-currently preparing for my CCNA 200-301 Exam. in this project i'll create a network simulation in University, where i'll begin implementing various concepets of networking which i learn for CCNA preparation. 
+currently preparing for my CCNA 200-301 Exam. in this project i'll create a network simulation in University, where i'll begin implementing various concepets of networking which i learn through CCNA preparation. 
 ## Designed Network
 ![a](../master/)
 # How To Run
